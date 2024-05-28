@@ -1,0 +1,4 @@
+nome:Daniel Reis Arruda Sales
+cpf:123.456.789-00
+email:usuario.exemplo@dominio.com
+telefone:(12)34567-8901
